@@ -20,7 +20,7 @@ A C-based event management system developed during my 2nd year of college. This 
 
 1. **Compile the program:**
    ```bash
-   gcc Untitled123.cpp -o event_management
+   gcc event_management.cpp -o event_management
    ```
 
 2. **Run the executable:**
@@ -33,7 +33,7 @@ A C-based event management system developed during my 2nd year of college. This 
 - **Password:** bit525
 
 ## File Structure
-- `Untitled123.cpp` - Main source code
+- `event_management.cpp` - Main source code
 - `events.txt` - Stores event data (auto-generated)
 - `registration.txt` - Stores student credentials (auto-generated)
 
