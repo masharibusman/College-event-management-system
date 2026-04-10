@@ -1,0 +1,24 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Data files (contain user information)
+events.txt
+registration.txt
+
+# IDE files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
